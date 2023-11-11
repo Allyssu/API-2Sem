@@ -40,12 +40,12 @@ Sprint | Previsão | Status| Histórico|
 </p>
 
 # Objetivo do Projeto
->Descrever aqui os objetivos desse projeto
+O objetivo primordial da nossa consultoria é aprimorar significativamente a eficiência e a eficácia da gestão de estoque da empresa. Estamos empenhados em identificar e implementar melhorias tangíveis no layout e na organização dos insumos, visando otimizar os processos logísticos e garantir um fluxo contínuo e eficiente de materiais.
 
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/4TxZWcmxWJk/0.jpg)](https://youtu.be/c4TxZWcmxWJk)
+[![SPRINT 1](https://img.youtube.com/vi/4TxZWcmxWJk/0.jpg)](https://youtu.be/4TxZWcmxWJk)
 
 ## Sprint 2
 >Descrever aqui o que foi entregue na sprint
@@ -87,16 +87,16 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 ## Burndown
 >Colocar aqui Burndown do projeto
 
-## Sprint 1 - Concepção
+## Sprint 1 
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
-## Sprint 2 - Desenvolvimento do Projeto
+## Sprint 2 
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
-## Sprint 3 - Implementação
+## Sprint 3 
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
       
-## Sprint 4 - Operacionalização
+## Sprint 4 
 >Colocar aqui as atividades relizadas nesta sprint em forma de checklist
 
 
@@ -138,8 +138,8 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
 |Product Owner| Lucas Marques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-|Scrum Master| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-| Scrum Team | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Scrum Master| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
+| Scrum Team | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | joão Otavio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 
