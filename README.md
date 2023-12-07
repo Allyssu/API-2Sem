@@ -21,16 +21,15 @@ Este semestre estamos prestando consultoria ao Centro de Competencia em Manufatu
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 04/09/2023 | concluido| [Ver Relatório]() | 
-|01 | 14/09/2023 | concluido| [Ver Relatório](https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%201/documento/sprint%201.pptx) | 
-|02|  11/10/2023| em progresso |[Ver Relatório]() | 
-|03| 08/11/2023 | a fazer|[Ver Relatório]() | 
-|04| 29/11/2023 |a fazer |[Ver Relatório]() |
-|Feira de Soluções|12/12/2023 |a fazer |[Ver Relatório]() | 
+|01 | 11/10/2023 | concluido | [Ver Relatório](https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%201/documento/sprint%201.pptx) | 
+|02|  23/11/2023| concluido |[Ver Relatório](https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%202/documento/SPRINT%202%20(1).pptx) | 
+|03| 07/12/2023 | concluido |[Ver Relatório](https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%203/documento/API%20-%20Terceira%20Sprint%20-%20Custos.pptx) | 
+|Feira de Soluções|12/12/2023 | concluido |[Ver Relatório]() | 
 
 # Micro Certificações
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green"/>
 </p>
 
 # Equipe
@@ -48,30 +47,34 @@ O objetivo primordial da nossa consultoria é aprimorar significativamente a efi
 [![SPRINT 1](https://img.youtube.com/vi/4TxZWcmxWJk/0.jpg)](https://youtu.be/4TxZWcmxWJk)
 
 ## Sprint 2
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/VPOv29DwrMc/0.jpg)](https://youtu.be/VPOv29DwrMc)
 
 ## Sprint 3
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-## Sprint 4
->Descrever aqui o que foi entregue na sprint
->Colocar o vídeo da apresentação
-
-## Apresentação final (se necessario)
-Vídeo com a apresentação final da API do "semestre/ano"
->Colocar o vídeo da apresentação
+[![SPRINT 1](https://img.youtube.com/vi/rY28QiNvFLk/0.jpg)](https://youtu.be/rY28QiNvFLk)
 
 ## Tecnologias Utilizadas
 ### Produto 
-> Descreva aqui a parte do MVP referente a cada Sprint
-
+- Sprint 1
+  - Gestão de Estoque
+  - Matriz de Criticidade
+- Sprint 2
+  - Classificação das peças
+  - Reorganização do layout
+  - Apresentação de equipamentos
+- Sprint 3
+  - Apresentação de equipamentos
+  - Apuração dos custos
+    
 ### Tecnológias Específicas/Apoio
-> Liste aqui todas as tecnologias utilizadas para colcluir as entregas
-  
+- Excel
+- PowerPoint
+- Metodologia Agil
+- Diagrama de Pareto
+- BrainStorm
+- Word
+
 ### Mindset Digital
-> Liste todas as tecnologias referentes aos processos da API
+Encorajamos a integração de novas tecnologias de apoio, aproveitando as oportunidades digitais que o momento proporciona. Desenvolvendo tambem a capacidade de ser proativo e criativo, para buscar soluções inovadoras aos desafios apresentadas.
 
 # Cronograma das Sprints
 
@@ -80,28 +83,35 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 #### Cronograma das Sprints[(clique aqui)](https://github.com/users/Allyssu/projects/1)
 
-
 ## Backlog do produto
->Colocar aqui os Requisitos funcionais(o que você vai oferecer para a empresa) e Requisitos não funcionais (como você vai oferecer para a empresa)
+<p align="center">
+ <img src="https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%204/imagem/back.png" width="70%"/>
+</p>
 
 ## Burndown
->Colocar aqui Burndown do projeto
+<p align="center">
+ <img src="https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%204/imagem/burn.png" width="90%"/>
+</p>
 
 ## Sprint 1 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Visita tecnica
+- [x] Análise das expectativas
+- [x] Gestão de estoque
+- [x] Local da análise
+- [x] Matriz de criticidade
+- [x] Grafico de Pareto
 
 ## Sprint 2 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
+- [x] Classificação das Peça
+- [x] Reorganização do estoque
+- [x] Realocação dos materias
+- [x] Apresentação de novos equipamentos
       
 ## Sprint 3 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-      
-## Sprint 4 
->Colocar aqui as atividades relizadas nesta sprint em forma de checklist
-
+- [x] Orçamento
+- [x] Apuração de custos      
 
 # Competências desenvolvidas
-> Descrever aqui as competências adquiridas e desenvolvidas pela equipe
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -109,12 +119,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Excel | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Word | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Scrum | ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Power Point | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Brainstorm | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
  
 </details>
 
@@ -124,12 +134,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-|  | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Proatividade | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
+| Colaboração | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Trabalho em equipe | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Pontualidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Criatividade | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Comunicação | ★ ★ ★ ★ ★ ★ ★ ★ ☆ ☆ |
 
 </details>
 
@@ -137,10 +147,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Lucas Marques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+|Product Owner| Lucas Marques | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMarques3)|
 |Scrum Master| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
-| Scrum Team | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-| Scrum Team | joão Otavio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-| Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
+| Scrum Team | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Agar-Grazielle)|
+| Scrum Team | joão Otavio | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
+| Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Thais-Eloane)|
 
 
